@@ -27,10 +27,10 @@ img {
   margin-top: 20px;
   max-width: 80%;
   text-align: center;
-  color: white;
+  color: hsl(220, 15%, 55%);
 }
 .wrap > div:first-child > div {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .card-container {
   flex: 1;
